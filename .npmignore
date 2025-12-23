@@ -18,3 +18,4 @@ importmap.yaml
 *.bak
 *.env
 !*.map
+qr.js
