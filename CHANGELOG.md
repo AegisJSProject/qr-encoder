@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.0.1] - 2025-12-03
+
+### Fixed
+- Fix bundling `qr` in minified module
+
 ## [v1.0.0] - 2025-12-23
 
 Initial Release

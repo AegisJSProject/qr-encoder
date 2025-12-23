@@ -1,8 +1,11 @@
 {
   "name": "@aegisjsproject/qr-encoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A QR encoder for node and browsers",
-  "keywords": ["svg", "svg-encoder"],
+  "keywords": [
+    "svg",
+    "svg-encoder"
+  ],
   "type": "module",
   "main": "./index.cjs",
   "module": "./index.js",
@@ -73,6 +76,7 @@
   "devDependencies": {
     "@aegisjsproject/dev-server": "^1.0.5",
     "@aegisjsproject/http-utils": "^1.0.4",
+    "@rollup/plugin-node-resolve": "^16.0.3",
     "@rollup/plugin-terser": "^0.4.4",
     "@shgysk8zer0/eslint-config": "^1.0.4",
     "@shgysk8zer0/http-server": "^1.1.1",
